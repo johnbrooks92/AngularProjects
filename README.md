@@ -1,5 +1,34 @@
-# AngularProjects
+#### AngularProjects
+The goal of this project is to hone my skills in Angular and apply it to my skillset. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Tips from Deployment
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
